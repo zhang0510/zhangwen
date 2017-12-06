@@ -149,23 +149,22 @@ oncut="return false;" >
 	<div class="centre">
 		<div class="main">
 			<!--header -->
-	  <header>
-          <h1><a target="_blank" href="./love520/index.html"><span id="logo"><img src="images/logo1.jpg" onclick="biaobai()"></span></a></h1>
-				<nav class="menu">
-					<ul id="menu">
-						<li id="nav1"><img src="images/nav1.png" alt=""><span>爱情</span></li>
-						<li id="nav2"><img src="images/nav2.png" alt=""><span>记事</span></li>
-						<li id="nav3"><img src="images/nav3.png" alt=""><span>絮叨</span></li>
-						<li id="nav4"><img src="images/nav4.png" alt=""><span>留言</span></li>
-						<li id="nav5"><img src="images/nav5.png" alt=""><span>相册</span></li>
-						<li id="nav6"><img src="images/nav6.png" alt=""><span>沙漏</span></li>
-					</ul>
-				</nav>
-				<img src="images/spacer.gif" alt="" id="navigation" usemap="#navigation">
-				<map name="navigation" class="navigation">
-	    </map>
-				<map name="logo" class="map_logo"></map>
-			</header>
+            <header>
+               <h1><a target="_blank" href="./love520/index.html"><span id="logo"><img src="images/logo1.jpg" onclick="biaobai()"></span></a></h1>
+                <nav class="menu">
+                    <ul id="menu">
+                        <li id="nav1"><img src="images/nav1.png" alt=""><span>爱情</span></li>
+                        <li id="nav2"><img src="images/nav2.png" alt=""><span>记事</span></li>
+                        <li id="nav3"><img src="images/nav3.png" alt=""><span>絮叨</span></li>
+                        <li id="nav4"><img src="images/nav4.png" alt=""><span>留言</span></li>
+                        <li id="nav5"><img src="images/nav5.png" alt=""><span>相册</span></li>
+                        <li id="nav6"><img src="images/nav6.png" alt=""><span>沙漏</span></li>
+                    </ul>
+                </nav>
+                <img src="images/spacer.gif" alt="" id="navigation" usemap="#navigation">
+                <map name="navigation" class="navigation"></map>
+                <map name="logo" class="map_logo"></map>
+          </header>
 			<!--header end-->
 			<!--content -->
 			<map name="back" class="map_back"></map>
